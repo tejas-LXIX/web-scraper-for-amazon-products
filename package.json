@@ -1,0 +1,16 @@
+{
+  "name": "web-scraper-for-amazon-products",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tejas",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "jsdom": "^16.5.3",
+    "nodemailer": "^6.6.0"
+  }
+}
